@@ -1,0 +1,374 @@
+    1  git
+    2  pwd
+    3  cd IdeaProjects/JavaTraining/
+    4  GIT ADD .
+    5  GIT add .
+    6  git status
+    7  git diff
+    8  ls
+    9  git status
+   10  gigit status
+   11  git status
+   12  cd Git/
+   13  git init
+   14  ls
+   15  ls
+   16  git status
+   17  git add .
+   18  GIT STATUS
+   19  git status
+   20  git commit -m "first commit"
+   21  git config --global user.email "shwetant95@gmail.com"
+   22  git config --global user.name "shwetant"
+   23  git config --list
+   24  cd Git/
+   25  ls
+   26  git status
+   27  git commit -m "first commit"
+   28  git history
+   29  git log
+   30  git push origin
+   31  git origin
+   32  git remote -v
+   33  git remote add origin  https://github.com/Timecric/Java-Batch-92
+   34  git remote add origin  https://github.com/Timecric/Java-Batch-92
+   35  git remote -v
+   36  git push origin master
+   37  ls
+   38  git pull origin master
+   39  ls
+   40  git clone https://github.com/karunawankar/java-batch-92/tree/master
+   41  git clone https://github.com/karunawankar/java-batch-92/
+   42  ls
+   43  cd java-batch-92/
+   44  ls
+   45  cat hello.txt
+   46  cd ..
+   47  ls
+   48  git -d branch develop
+   49  git checkout -b hotfix
+   50  ls
+   51  git status
+   52  git add hello.java
+   53  git commit -m "second commit"
+   54  git push origin hotfix
+   55  git init
+   56  git config --global user.name="shwetant"
+   57  git config --global user.name "shwetant"
+   58  git config --global user.email "shwetant.mohapatra@gmail.com"
+   59  git config --list
+   60  clear
+   61  git add .
+   62  git push origin --delete :master
+   63  git push origin --delete :master
+   64   git remote prune origin --dry-run
+   65  git clone https://github.com/mayurm88057/ROHITJASIWAL.git
+   66  git branch -v
+   67  ls
+   68  cd ROHITJASIWAL/
+   69  ls
+   70  clear
+   71  git branch -v
+   72  git pull https://github.com/mayurm88057/ROHITJASIWAL.git master
+   73  git branch -v
+   74  git branch -v
+   75  git branch -v
+   76  git branch -a
+   77  git checkout -b mayur origin/master
+   78  git config --global alias.co checkout
+   79  git co shwetant
+   80  git co -b  shwetant
+   81  git co -b master
+   82  git status
+   83  cd ROHITJASIWAL/
+   84  ls
+   85  git status
+   86  git add ,
+   87  git add .
+   88  git commiy -m "didjiajdsa"
+   89  git commit -m "didjiajdsa"
+   90  git push origin
+   91  git push origin master
+   92  git show-ref
+   93  git push origin master
+   94  git push origin /master
+   95  git push origin master
+   96  git push origin HEAD:master
+   97  git push origin HEAD:master
+   98  git config --list
+   99  git push origin master
+  100  git push origin master
+  101  git push origin master
+  102  git show-ref
+  103  git push origin master
+  104  git config --global alias.co checkout
+  105  git co shwetant
+  106  git init
+  107  git status
+  108  git init
+  109  cd ..
+  110  git
+  111  git status
+  112  cd practice/
+  113  ls
+  114  git status
+  115  git add Hello.txt.txt
+  116  git commit -m "first commit"
+  117  git add .
+  118  git status
+  119  git branch -m master
+  120  git add .
+  121  git status
+  122  git commit -m "Second commit"
+  123  git status
+  124  git status
+  125  git add .
+  126  git status
+  127  git commit -m "Third commit"
+  128  git status
+  129  git status
+  130  git status
+  131  git add .
+  132  git status
+  133  git commit -m "Fourth commit"
+  134  git log
+  135  git log --oneline
+  136  git add .
+  137  git commit -m "Fifth commit"
+  138  git log
+  139  touch mayur.txt
+  140  git status
+  141  git add .
+  142  git status
+  143  git commit -m "Sixth commit"
+  144  git log
+  145  git diff Hello.txt.txt
+  146  git diff Hello.txt.txt
+  147  git add Hello.txt.txt
+  148  git diff Hello.txt.txt
+  149  git diff Hello.txt.txt
+  150  git log
+  151  git diff Hello.txt.txt
+  152  git reaet -- hard 90ae4f945fbc82eea7a6b1f8c2c92b591f1c8366
+  153  git reset -- hard 90ae4f945fbc82eea7a6b1f8c2c92b591f1c8366
+  154  git status
+  155  git diff
+  156  git reset --hard 90ae4f945fbc82eea7a6b1f8c2c92b591f1c8366
+  157  git status
+  158  clear
+  159  git diff Hello.txt.txt
+  160  git diff Hello.txt.txt
+  161  git log
+  162  git diff baa804d3c15ec24c38a9f5c93b79632a03dca68e Hello.txt.txt
+  163  git reset --hard 90ae4f945fbc82eea7a6b1f8c2c92b591f1c8366
+  164  git status
+  165  git add Hello.txt.txt
+  166  git commit -m "Sixth commit"
+  167  git commit ammend -m "Seventh commit"
+  168  git commit amend -m "Seventh commit"
+  169  git ammend -m "seventh commit"
+  170  git amend -m "seventh commit"
+  171  git commit --amend -m "Seventh commit"
+  172  git log
+  173  clear
+  174  git reset --soft Hello.txt.txt
+  175  git log
+  176  git reset --soft 90ae4f945fbc82eea7a6b1f8c2c92b591f1c8366
+  177  git status
+  178  git reset  Hello.txt.txt
+  179  git status
+  180  git reset --hard 90ae4f945fbc82eea7a6b1f8c2c92b591f1c8366
+  181  git status
+  182  history
+  183  git status
+  184  git restore Hello.txt.txt
+  185  git status
+  186  git add Hello.txt.txt
+  187  git restore --staged Hello.txt.txt
+  188  git status
+  189  git restore Hello.txt.txt
+  190  gitk log
+  191  gitk git log
+  192  git log
+  193  cd d:
+  194  ls
+  195  cd practice/
+  196  ls
+  197  git log --all --graph
+  198  clear
+  199   git help -a
+  200   git help init'
+  201   git help init
+  202  git status
+  203  git add .
+  204  git commit -m "Simple code commit"
+  205  git log --all --graph
+  206  clear
+  207  git add .
+  208  git commit -m "Second code commit"
+  209  javac
+  210  git branch
+  211  git branch new_feature
+  212  git branch
+  213  git  checkout new_feature
+  214  git branch
+  215  git log
+  216  git checkout master
+  217  git reset --hard 90ae4f945fbc82eea7a6b1f8c2c92b591f1c8366
+  218  git branch new_feature
+  219  git  checkout new_feature
+  220  ls
+  221  git status
+  222  git status
+  223  git  status
+  224  git status
+  225  git add .
+  226  git commit -m "Simple code commit"
+  227  git branch -d new_feature
+  228  git  checkout new_feature
+  229  git branch new_feature
+  230  git  checkout new_feature
+  231  git add .
+  232  git commit -m "Change for new feature"
+  233  git checkout master
+  234  git checkout new_feature
+  235  git add .
+  236  git commit -m "correction in code for new feature"
+  237  git log --all --graph
+  238  git log --graph
+  239  git checkout
+  240  git checkout master
+  241  git merge new_feature
+  242  git log --all --graph
+  243  git branch -d new_feature
+  244  clear
+  245  git branch new_feature_shwetant
+  246  git branch new_feature_Mayur
+  247  git branch new_feature_Rohit
+  248  git checout new_feature_shwetant
+  249  git checkout new_feature_shwetant
+  250  git log --obeline
+  251  git log --oneline
+  252  git add .
+  253  git commit -m "code for addition"
+  254  git
+  255  git checkout
+  256  git checkout master
+  257  git merge new_feature_shwetant
+  258  git checkout new_feature_Rohit
+  259  git add .
+  260  git commit -m "code for substraction"
+  261  git log
+  262  git reset --hard 39255ccd65f196e5d83bbd22e8c5f177621860c5
+  263  git add .
+  264  git commit -m "code for substraction"
+  265  git checkout naster
+  266  git checkout naster
+  267  git branch
+  268  git branch master
+  269  git checkout master
+  270  git merge new_feature_Rohit
+  271  git branch -d new_feature_shwetant
+  272  git branch -d new_feature_mayur
+  273  git branch -d new_feature_Rohit
+  274  git branch
+  275  clear
+  276  git branch -d new_feature_shwetant
+  277  git branch new_feature_shwetant
+  278  git branch  new_feature_Rohit
+  279  git checkout new_feature_shwetant
+  280  git add .
+  281  git commit -m "Removal hello world"
+  282  git checkout master
+  283  git merge new_feature_shwetant
+  284  git checkout new_feature_Rohit
+  285  git add .
+  286  git commit -m "addition of git add .! in hello world"
+  287  git checkout master
+  288  git merge new_feature_ROhit
+  289  git status
+  290  git add .
+  291  git commit -m "Resolving git merge conflict"
+  292  git status
+  293  git status
+  294  git log
+  295  git branch
+  296  git branch -d new_feature_Rohit
+  297  git checkout new_feature_ROhit
+  298  git checkout new_feature_ROhit
+  299  git stash
+  300  git add .
+  301  git stash
+  302  git checkout new_feature_ROhit
+  303  git branch
+  304  git status
+  305  git branch -d new_feature_Rohit
+  306  git checkout master
+  307  git add .
+  308  git stash
+  309  git stash
+  310  git add .
+  311  git commit -m "ffhdfd"
+  312  git checkout master
+  313  git branch -d new_feature_Rohit
+  314  git branch -D new_feature_Rohit
+  315  git branch
+  316  git branch -d new_feature_shwetant
+  317  git branch -D new_feature_shwetant
+  318  clear
+  319  git log
+  320  clear
+  321  git checkout -b new_feature_shwetant
+  322  git add .
+  323  git commit -m "Hello World Correction"
+  324  git stash clear
+  325  git stash list
+  326  git stash --list
+  327  git stash list
+  328  clear
+  329  git add .
+  330  git commit -m "Hello World addition"
+  331  it add .
+  332  git add .
+  333  git commit -m "Hello World dfjs"
+  334  git log
+  335  git checkout master
+  336  git add .
+  337  git commit -m "Hello World cjdfd"
+  338  git checkout new_feature_shwetant
+  339  git log
+  340  git checkout master
+  341  git rebase new_feature_shwetant
+  342  git add .
+  343  git commit -m "resolving conflict"
+  344  git clone https://github.com/vinayingalahalli/simplilearn_march2020/tree/master/simplilearn_march2020/phase1
+  345  git clone https://github.com/vinayingalahalli/simplilearn_march2020.git
+  346  ls
+  347  cd simplilearn_march2020/
+  348  git status
+  349  git status
+  350  git config user.name shwetant.mohapatra
+  351  git config user.email shwetant@gmail.com
+  352  git config --list
+  353  git config user.name=shwetant.mohapatra
+  354  git config --list
+  355  git config --list
+  356  git config user.name=shwetant.mohapatra
+  357  git config user.email=shwetant@gmail.com
+  358  git config --list
+  359* git
+  360  git status
+  361  git add .
+  362  git add .
+  363  git commit -m "removing comment"
+  364  clear
+  365* git push https://github.com/vinayingalahalli/
+  366  cd ..
+  367  git clone
+  368  git clone https://github.com/Timecric/Git_practise.git
+  369  git add .
+  370  cd Git_practise/
+  371  git add .
+  372  git commit -m "Adding my first project"
+  373  history
+
