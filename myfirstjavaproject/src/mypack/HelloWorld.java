@@ -9,17 +9,9 @@ public class HelloWorld {
 		}else
 		System.out.println("Hello "+vinay[0]+"   "+vinay[1]);
 	}
-//	class M{}
-//	public class Z{}
-//	private class D{}
-//	protected class Q{}
-//	public static class W{}
+
 
 }
-// class A{}
-// 
-// class B{}
-// class Z{}
 
 class Product{
 	int pid;
