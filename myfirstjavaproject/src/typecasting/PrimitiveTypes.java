@@ -14,7 +14,7 @@ public class PrimitiveTypes {
 		
 		
 		char c='A';
-		int z=c; //implicit
+		int z=c; //implicit typecasting
 		System.out.println(z);
 		z=99;
 		c=(char)z;
