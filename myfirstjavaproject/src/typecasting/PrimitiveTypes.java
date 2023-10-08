@@ -19,6 +19,7 @@ public class PrimitiveTypes {
 		z=99;
 		c=(char)z;
 		System.out.println(c);
+                xyz dosdks
 		
 
 	}
